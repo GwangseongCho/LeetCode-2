@@ -1,2 +1,3 @@
 # LeetCode-2
-Comment every line of code for understanding
+Comment on every line of code to understanding
+* Array
