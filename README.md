@@ -59,12 +59,13 @@ Doubly Linked	Can be traversed backwards	Takes 2x memory.
 
 
 Complexity
-Singly linked vs Doubly
-Search	O(n)	O(n)
-Insert at head and tail	O(1)	O(1)
-Remove at head	O(1)	O(1)
-Remove at tail	O(n)	O(n1)
-Remove in middle	O(n)	O(n)
+| |Singly| Doubly|
+|---|---|---|
+|Search	|O(n)|	O(n)|
+|Insert at head and tail|	O(1)|	O(1)|
+|Remove at head |	O(1)	|O(1)|
+|Remove at tail |	O(n)|	O(n1)|
+|Remove in middle| 	O(n)|	O(n)|
 ## HashMap
 
 ## Stack
