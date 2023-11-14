@@ -21,13 +21,13 @@ A static array us a fixed length container containing n elements indexiable from
 idexiable = array can be referenced with a number.
 
 ### Static Arrary vs Dynamic Array
-|		| Static | Dynamic|
-|-------|------|--------|
-Access 	O(1)	O(1) 
-Serach	O(n)	O(n)
-Insertion	N/A	O(n)
-Appending	N/A	O(1)
-Deletion	N/A	O(n)
+|	|Static|Dynamic|
+|-----|-----|-----|
+|Access |	O(1)	|O(1) |
+|Serach	|O(n)|	O(n)|
+|Insertion	|N/A|	O(n)|
+|Appending|	N/A|	O(1)|
+|Deletion|	N/A	|O(n)|
 ### Dynamic Array
 The dynamic array can grow and shrink in size.
 How can we implement a dynamic array?
