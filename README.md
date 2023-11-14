@@ -21,8 +21,12 @@ A static array us a fixed length container containing n elements indexiable from
 idexiable = array can be referenced with a number.
 
 ### Static Arrary vs Dynamic Array
-|----------|--------|-----|
-| Access	| O(1)	| O(1)| 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        
+Access 	O(1)	O(1) 
 Serach	O(n)	O(n)
 Insertion	N/A	O(n)
 Appending	N/A	O(1)
